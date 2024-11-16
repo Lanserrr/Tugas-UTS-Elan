@@ -1,0 +1,72 @@
+body {
+    font-family:Verdana,Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #0aa937;
+    padding: 20px;
+    text-align: justify;
+    color: white;
+}
+
+nav {
+    background-color: #0aa937;
+    padding: auto;
+    text-align: justify;
+}
+
+nav{
+    color:white;
+    background-color: #0aa937;
+    text-decoration: none;
+
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    text-wrap: nowrap;
+}
+
+section {
+    background-image:src="url(image/Persib.png)" ;
+    border-image-width: auto;
+    border-color: #0aa937;
+    text-align: center;
+    list-style-image: -moz-element();
+    padding: 20px;
+}
+
+p{
+    border-width: 50%;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    background-color: #f3e40e;
+    border-color: #000000;
+    border-style: solid;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+footer {
+    background-color: #000000;
+    padding: 20px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #f0f0f0;
+}
+
+h2{
+    text-transform: capitalize;
+    border-color: #dade12;
+    color: #000000;
+}
